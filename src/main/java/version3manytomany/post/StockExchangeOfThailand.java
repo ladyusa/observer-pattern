@@ -1,6 +1,6 @@
-package version4manytomany.post;
+package version3manytomany.post;
 
-import version4manytomany.util.Subject;
+import version3manytomany.util.Subject;
 
 import java.util.HashMap;
 import java.util.Map;

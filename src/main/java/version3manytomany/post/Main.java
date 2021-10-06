@@ -1,4 +1,4 @@
-package version4manytomany.post;
+package version3manytomany.post;
 
 import java.util.Scanner;
 

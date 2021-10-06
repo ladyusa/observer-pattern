@@ -1,4 +1,4 @@
-package version4manytomany.util;
+package version3manytomany.util;
 
 import java.util.ArrayList;
 import java.util.List;
