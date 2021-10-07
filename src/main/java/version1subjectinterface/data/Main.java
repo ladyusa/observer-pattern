@@ -10,5 +10,7 @@ public class Main {
         rice.setPrice(30);
         System.out.println("--------");
         rice.setPrice(32);
+        System.out.println("--------");
+        rice.setPrice(33);
     }
 }

@@ -14,7 +14,8 @@ public class NewsRoom implements Observer {
 
     @Override
     public void update(Object obj) {
-        double data = ((Double) obj).doubleValue();
+        //double data = ((Double) obj).doubleValue();
+        double data = ((Rice)subject).getPrice();
         System.out.println("Current Rice Price : " + data);
     }
 }
